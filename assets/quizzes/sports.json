@@ -1,0 +1,226 @@
+{
+  "id": "sports_001",
+  "title": "Sports Quiz",
+  "category": "Sports",
+  "description": "Test your knowledge of sports, athletes, and sporting events from around the world.",
+  "timeLimit": 0,
+  "createdAt": "2024-01-01T00:00:00Z",
+  "updatedAt": "2024-01-01T00:00:00Z",
+  "questions": [
+    {
+      "id": "sport_001",
+      "question": "How many players are on a basketball team on the court at one time?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "A basketball team has 5 players on the court at one time.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_002",
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": [
+        "Germany",
+        "Brazil",
+        "France",
+        "Argentina"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sports",
+      "explanation": "France won the 2018 FIFA World Cup, defeating Croatia 4-2 in the final.",
+      "difficulty": 2
+    },
+    {
+      "id": "sport_003",
+      "question": "In tennis, what score comes after 40-40?",
+      "options": [
+        "Game",
+        "Deuce",
+        "Advantage",
+        "Match Point"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "In tennis, when both players reach 40 points, it's called 'deuce'.",
+      "difficulty": 2
+    },
+    {
+      "id": "sport_004",
+      "question": "How many innings are in a standard baseball game?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sports",
+      "explanation": "A standard baseball game consists of 9 innings.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_005",
+      "question": "Which sport is played at Wimbledon?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Cricket",
+        "Rugby"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "Wimbledon is the oldest and most prestigious tennis tournament in the world.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_006",
+      "question": "What is the maximum score in a single frame of bowling?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "300"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "explanation": "The maximum score in a single frame of bowling is 10 (a strike).",
+      "difficulty": 2
+    },
+    {
+      "id": "sport_007",
+      "question": "Which country hosted the 2020 Summer Olympics?",
+      "options": [
+        "China",
+        "Japan",
+        "Brazil",
+        "United Kingdom"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "Japan hosted the 2020 Summer Olympics in Tokyo (held in 2021 due to COVID-19).",
+      "difficulty": 2
+    },
+    {
+      "id": "sport_008",
+      "question": "In American football, how many points is a touchdown worth?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "10"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "explanation": "A touchdown in American football is worth 6 points.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_009",
+      "question": "Which sport uses a shuttlecock?",
+      "options": [
+        "Tennis",
+        "Badminton",
+        "Squash",
+        "Table Tennis"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "Badminton uses a shuttlecock (also called a birdie) instead of a ball.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_010",
+      "question": "How many players are on a soccer team on the field at one time?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "A soccer team has 11 players on the field at one time.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_011",
+      "question": "Which country is famous for sumo wrestling?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Thailand"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "Sumo wrestling is Japan's national sport and has deep cultural significance.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_012",
+      "question": "In golf, what is a score of one under par called?",
+      "options": [
+        "Eagle",
+        "Birdie",
+        "Par",
+        "Bogey"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "A birdie is a score of one stroke under par on a hole.",
+      "difficulty": 2
+    },
+    {
+      "id": "sport_013",
+      "question": "Which sport is played on ice with sticks and a puck?",
+      "options": [
+        "Field Hockey",
+        "Ice Hockey",
+        "Lacrosse",
+        "Polo"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "Ice hockey is played on ice with sticks and a puck.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_014",
+      "question": "How many rings are in the Olympic symbol?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "The Olympic symbol has 5 interlocking rings representing the 5 continents.",
+      "difficulty": 1
+    },
+    {
+      "id": "sport_015",
+      "question": "Which country won the most medals at the 2020 Summer Olympics?",
+      "options": [
+        "China",
+        "United States",
+        "Japan",
+        "Great Britain"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sports",
+      "explanation": "The United States won the most medals (113 total) at the 2020 Summer Olympics.",
+      "difficulty": 3
+    }
+  ]
+}
+
+
+
+
+

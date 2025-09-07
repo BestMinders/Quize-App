@@ -1,0 +1,223 @@
+{
+  "id": "general_knowledge_001",
+  "title": "General Knowledge Quiz",
+  "category": "General Knowledge",
+  "description": "Test your general knowledge with these interesting questions covering various topics.",
+  "timeLimit": 0,
+  "createdAt": "2024-01-01T00:00:00Z",
+  "updatedAt": "2024-01-01T00:00:00Z",
+  "questions": [
+    {
+      "id": "gk_001",
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "General Knowledge",
+      "explanation": "Canberra is the capital city of Australia, chosen as a compromise between Sydney and Melbourne.",
+      "difficulty": 2
+    },
+    {
+      "id": "gk_002",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "General Knowledge",
+      "explanation": "Mars is called the Red Planet due to iron oxide (rust) on its surface giving it a reddish appearance.",
+      "difficulty": 1
+    },
+    {
+      "id": "gk_003",
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "General Knowledge",
+      "explanation": "Leonardo da Vinci painted the Mona Lisa between 1503-1519. It's now displayed in the Louvre Museum in Paris.",
+      "difficulty": 2
+    },
+    {
+      "id": "gk_004",
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "General Knowledge",
+      "explanation": "The Pacific Ocean is the largest ocean, covering more than 30% of Earth's surface.",
+      "difficulty": 1
+    },
+    {
+      "id": "gk_005",
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": [
+        "Gold",
+        "Oxygen",
+        "Osmium",
+        "Oganesson"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "General Knowledge",
+      "explanation": "Oxygen has the chemical symbol 'O' and atomic number 8. It's essential for respiration.",
+      "difficulty": 1
+    },
+    {
+      "id": "gk_006",
+      "question": "In which year did World War II end?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "General Knowledge",
+      "explanation": "World War II ended in 1945 with the surrender of Japan on September 2, 1945.",
+      "difficulty": 2
+    },
+    {
+      "id": "gk_007",
+      "question": "What is the smallest country in the world?",
+      "options": [
+        "Monaco",
+        "Nauru",
+        "Vatican City",
+        "San Marino"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "General Knowledge",
+      "explanation": "Vatican City is the smallest country in the world, covering only 0.17 square miles.",
+      "difficulty": 3
+    },
+    {
+      "id": "gk_008",
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Leopard",
+        "Cheetah"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "General Knowledge",
+      "explanation": "The lion is often called the 'King of the Jungle' due to its majestic appearance and dominant nature.",
+      "difficulty": 1
+    },
+    {
+      "id": "gk_009",
+      "question": "What is the currency of Japan?",
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Dong"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "General Knowledge",
+      "explanation": "The Japanese Yen (¥) is the official currency of Japan.",
+      "difficulty": 1
+    },
+    {
+      "id": "gk_010",
+      "question": "Which mountain is the highest in the world?",
+      "options": [
+        "K2",
+        "Mount Everest",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "General Knowledge",
+      "explanation": "Mount Everest is the highest mountain in the world at 8,848 meters (29,029 feet) above sea level.",
+      "difficulty": 1
+    },
+    {
+      "id": "gk_011",
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "General Knowledge",
+      "explanation": "William Shakespeare wrote the famous tragedy 'Romeo and Juliet' in the late 16th century.",
+      "difficulty": 2
+    },
+    {
+      "id": "gk_012",
+      "question": "What is the speed of light in a vacuum?",
+      "options": [
+        "299,792,458 m/s",
+        "300,000,000 m/s",
+        "299,792,458 km/s",
+        "300,000,000 km/s"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "General Knowledge",
+      "explanation": "The speed of light in a vacuum is exactly 299,792,458 meters per second.",
+      "difficulty": 4
+    },
+    {
+      "id": "gk_013",
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Thailand"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "General Knowledge",
+      "explanation": "Japan is known as the 'Land of the Rising Sun' due to its location east of the Asian mainland.",
+      "difficulty": 2
+    },
+    {
+      "id": "gk_014",
+      "question": "What is the largest mammal in the world?",
+      "options": [
+        "African Elephant",
+        "Blue Whale",
+        "Giraffe",
+        "Hippopotamus"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "General Knowledge",
+      "explanation": "The blue whale is the largest mammal and the largest animal ever known to have lived on Earth.",
+      "difficulty": 2
+    },
+    {
+      "id": "gk_015",
+      "question": "Which gas makes up most of Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "General Knowledge",
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, while oxygen makes up about 21%.",
+      "difficulty": 2
+    }
+  ]
+}
+
+

@@ -1,0 +1,223 @@
+{
+  "id": "science_001",
+  "title": "Science Quiz",
+  "category": "Science",
+  "description": "Explore the fascinating world of science with questions about physics, chemistry, biology, and more.",
+  "timeLimit": 0,
+  "createdAt": "2024-01-01T00:00:00Z",
+  "updatedAt": "2024-01-01T00:00:00Z",
+  "questions": [
+    {
+      "id": "sci_001",
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Science",
+      "explanation": "Water's chemical formula is H2O, meaning it contains two hydrogen atoms and one oxygen atom.",
+      "difficulty": 1
+    },
+    {
+      "id": "sci_002",
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Endoplasmic Reticulum"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "explanation": "Mitochondria are known as the powerhouse of the cell because they produce ATP (energy) through cellular respiration.",
+      "difficulty": 2
+    },
+    {
+      "id": "sci_003",
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": [
+        "9.8 m/s²",
+        "10 m/s²",
+        "8.9 m/s²",
+        "11.2 m/s²"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Science",
+      "explanation": "The standard acceleration due to gravity on Earth is approximately 9.8 m/s².",
+      "difficulty": 2
+    },
+    {
+      "id": "sci_004",
+      "question": "Which blood type is known as the universal donor?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Science",
+      "explanation": "Type O negative blood is considered the universal donor because it can be given to people of any blood type.",
+      "difficulty": 3
+    },
+    {
+      "id": "sci_005",
+      "question": "What is the process by which plants make their own food?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Digestion",
+        "Fermentation"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "explanation": "Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen.",
+      "difficulty": 1
+    },
+    {
+      "id": "sci_006",
+      "question": "What is the smallest unit of matter?",
+      "options": [
+        "Molecule",
+        "Atom",
+        "Electron",
+        "Proton"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "explanation": "An atom is the smallest unit of matter that retains the properties of an element.",
+      "difficulty": 2
+    },
+    {
+      "id": "sci_007",
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Mars"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "explanation": "Mercury is the closest planet to the Sun in our solar system.",
+      "difficulty": 1
+    },
+    {
+      "id": "sci_008",
+      "question": "What is the pH of pure water?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "explanation": "Pure water has a pH of 7, which is considered neutral on the pH scale.",
+      "difficulty": 2
+    },
+    {
+      "id": "sci_009",
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "explanation": "Plants absorb carbon dioxide from the atmosphere during photosynthesis to produce glucose.",
+      "difficulty": 1
+    },
+    {
+      "id": "sci_010",
+      "question": "What is the hardest natural substance on Earth?",
+      "options": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Quartz"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "explanation": "Diamond is the hardest natural substance known on Earth, with a Mohs hardness of 10.",
+      "difficulty": 2
+    },
+    {
+      "id": "sci_011",
+      "question": "Which organ produces insulin?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Stomach"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "explanation": "The pancreas produces insulin, a hormone that regulates blood sugar levels.",
+      "difficulty": 2
+    },
+    {
+      "id": "sci_012",
+      "question": "What is the speed of sound in air at room temperature?",
+      "options": [
+        "300 m/s",
+        "343 m/s",
+        "400 m/s",
+        "500 m/s"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "explanation": "The speed of sound in air at room temperature (20°C) is approximately 343 meters per second.",
+      "difficulty": 3
+    },
+    {
+      "id": "sci_013",
+      "question": "Which element has the highest melting point?",
+      "options": [
+        "Iron",
+        "Tungsten",
+        "Gold",
+        "Silver"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "explanation": "Tungsten has the highest melting point of all elements at 3,422°C (6,192°F).",
+      "difficulty": 4
+    },
+    {
+      "id": "sci_014",
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Liver",
+        "Brain",
+        "Skin",
+        "Lungs"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "explanation": "The skin is the largest organ in the human body, covering the entire external surface.",
+      "difficulty": 2
+    },
+    {
+      "id": "sci_015",
+      "question": "Which force keeps planets in orbit around the Sun?",
+      "options": [
+        "Magnetic Force",
+        "Gravitational Force",
+        "Electromagnetic Force",
+        "Nuclear Force"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "explanation": "Gravitational force keeps planets in orbit around the Sun, as described by Newton's law of universal gravitation.",
+      "difficulty": 2
+    }
+  ]
+}
+
+
