@@ -193,7 +193,6 @@ class _QuizScreenState extends State<QuizScreen> {
           
           // Next/Complete button
           Expanded(
-            flex: 2,
             child: ElevatedButton.icon(
               onPressed: hasSelectedAnswer
                   ? (viewModel.isLastQuestion
